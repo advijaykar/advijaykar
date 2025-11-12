@@ -1,82 +1,114 @@
-### <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20" height="20"/> I am Aryan Vijaykar</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=7000&pause=1000&width=520&lines=Cloud+%26+Security+Enthusiast;AWS+Cloud+Club+Captain+%40+RTMSSU;I+like+turning+ideas+into+deployed+projects)](https://git.io/typing-svg)
-
-- 🔭 I’m currently working on **Cloud, Security, DevOps, and AI-assisted apps**
-- 🌱 Learning **Serverless on AWS**, **containers**, and **infra as code**
-- 💬 Ask me about **AWS basics, Python/JS, Git/GitHub, study jams**
-- 😄 Hobbies: **Music, puzzles, mentoring peers**
-- ⚡ Fun fact: I love turning workshop demos into open-source mini-projects
-
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.youtube.com/@your-youtube" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://dev.to/your-devto" target="_blank">
-    <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?logo=dev.to&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://hashnode.com/@your-hashnode" target="_blank">
-    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d1117&text=Aryan%20Vijaykar&fontColor=3ba7ff&fontSize=45&fontAlignY=35" />
 </p>
 
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
-### 🖊️ Latest Articles
-<!-- DEVTO-BLOG-LIST:START -->
-- Coming soon: “Getting Started with AWS: A Beginner’s Study Jam”
-<!-- DEVTO-BLOG-LIST:END -->
-<!-- HASHNODE-BLOG-LIST:START -->
-<!-- HASHNODE-BLOG-LIST:END -->
-<!-- MEDIUM-BLOG-LIST:START -->
-<!-- MEDIUM-BLOG-LIST:END -->
-
-### 🎥 Latest YouTube Videos
-<table>
-<tr>
-  <td><a href="https://www.youtube.com/@your-youtube"><img width="140px" src="https://i.ytimg.com/vi/VIDEO_ID/mqdefault.jpg"></a></td>
-  <td><a href="https://www.youtube.com/@your-youtube">My Cloud Workshop Recap</a><br/></td>
-</tr>
-</table>
-
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
-<div align="center">
-  
-### 🏆 GitHub Trophies
-</div>
+<h3 align="center">Google Student Ambassador | AI & Cloud Enthusiast | Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=matrix&title=MultiLanguage,Stars,Followers,Commits,Issues,PullRequest,Experience,Repositories" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=aryan-vijaykar&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
 </p>
 
-<div>
-  <table align="center">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=github_dark&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
+</picture>
 
-[![Holopin Badges](https://holopin.me/your-holopin)](https://holopin.io/@your-holopin)
+### 👋 Hey there! I’m **Aryan Vijaykar**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Google+Student+Ambassador;GDG+Cloud+Member;Open+Source+Contributor;AI+%26+Cloud+Explorer;Building+Smart+and+Scalable+Solutions)](https://git.io/typing-svg)
+
+---
+
+## 🚀 About Me  
+
+> Passionate about leveraging **AI, Cloud, and IoT** to create real-world, impactful solutions.  
+> I’m constantly exploring new technologies and love building projects that merge creativity with logic.
+
+- 🎓 **B.Tech (IT)** at *Ratan Tata Maharashtra State Skills University*  
+- 🌱 Currently learning: **DevOps, WebGIS, and Full Stack Development**  
+- 💬 Ask me about: **Java, Cloud, or Python**  
+- ⚡ Fun fact: I debug for fun and learn from every bug 🐞  
+- 🏆 Best Project Award – *Avishkar 2025* | *Excellence in Club Leadership*
+
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
+</picture>
+
+## 🧰 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,linux,aws,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
+</picture>
+
+## 💡 Featured Projects  
+
+### 🧠 [Automatic Voice-Operated Library System](https://github.com/aryan-vijaykar/Library-AI)
+Voice-controlled library access & visitor tracking using AI/ML, IoT sensors, and speech recognition.
+
+### 🌍 [Drishti-GIS: AI-Powered FRA Monitoring System](https://github.com/aryan-vijaykar/Drishti-GIS)
+AI-driven WebGIS for monitoring land rights, IoT-based data integration, and real-time analytics dashboards.
+
+### 🐍 [Python Automation Scripts](https://github.com/aryan-vijaykar/Python-Automations)
+Collection of automation scripts for everyday tasks — from system cleanup to API integration.
+
+---
+
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
+</picture>
+
+## 🏆 Achievements  
+- 🥇 Best Project Award – **Avishkar’25**  
+- 🏅 Excellence Award – **Renewable Energy Club Leadership**  
+- ☁️ **Google Cloud Compute Skill Badge (2025)**  
+- 🎓 **OCI AI Foundations Associate (Oracle, 2025)**  
+- 💻 **Udemy Java OOP Certification (2025)**  
+
+---
+
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
+</picture>
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-vijaykar&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 🔥 Contribution Graph  
+![Aryan’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-vijaykar&bg_color=0d1117&color=58a6ff&line=3ba55d&point=f7786b&area=true&hide_border=true)
+
+---
+
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
+</picture>
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-vijaykar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:advijaykar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/aryan-vijaykar"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0d1117" />
+</p>
