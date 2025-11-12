@@ -92,7 +92,7 @@ Collection of automation scripts for everyday tasks — from system cleanup to A
 ---
 
 ### 🔥 Contribution Graph  
-![Aryan’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-vijaykar&bg_color=0d1117&color=58a6ff&line=3ba55d&point=f7786b&area=true&hide_border=true)
+![Aryan’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=advijaykar&bg_color=0d1117&color=58a6ff&line=3ba55d&point=f7786b&area=true&hide_border=true)
 
 ---
 
