@@ -86,7 +86,7 @@ Collection of automation scripts for everyday tasks — from system cleanup to A
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-vijaykar&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=advijaykar&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
