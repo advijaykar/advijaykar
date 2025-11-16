@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Mission-Build%20Impactful%20Products-3ba55d?style=for-the-badge" alt="Mission badge" />
 </p>
 
+---
 
 ## 🎯 Snapshot
 
@@ -23,17 +24,33 @@
 
 > "Curiosity-led research, community-driven impact, and shipping solutions that matter."
 
+---
 
 ## 🚀 About Me
 
+- 🎓 **B.Tech (IT)** @ *Ratan Tata Maharashtra State Skills University*
+- 🔭 Building end-to-end products that blend **AI, IoT, and Cloud** for smarter environments
+- 🧠 Obsessed with solving complex workflows using automation, data storytelling, and scalable architectures
+- 🌱 Currently deep-diving into **DevOps pipelines, WebGIS ecosystems, and full-stack experimentation**
+- ☕ Community-first learner: leading cohorts, mentoring peers, and co-hosting workshops across campuses
+- ⚡ Fun fact: I treat bugs as plot twists—every fix becomes a story to teach the next cohort 🐞
 
 ### Currently Exploring
 
+- 🔧 Automating ops for cloud-backed IoT deployments
+- 🛰️ Turning satellite and sensor data into actionable WebGIS insights
+- 🧩 Experimenting with GenAI agents to supercharge developer productivity
 
+---
 
 ## 🧠 Highlights
 
+- 🏆 **Avishkar 2025 Best Project** for an AI-enabled library experience
+- 🏅 Led renewable energy initiatives, earning the **Excellence in Club Leadership Award**
+- ☁️ **Google Cloud Compute Skill Badge (2025)** and **Oracle OCI AI Foundations Associate**
+- 💡 Empowering 2000+ learners through talks, live demos, and hackspace collaborations
 
+---
 
 ## 🧰 Tech Arsenal
 
@@ -41,6 +58,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,kotlin,dart,php,flutter,html,css,js,tailwind,vue,pinia,laravel,gradle,bash,md,mysql,postgres,firebase,heroku,git,github,linux,androidstudio,vscode,idea,ai,ps&perline=15" alt="Tech stack icons" />
 </p>
 
+---
 
 ## 💡 Flagship Projects
 
@@ -64,10 +82,16 @@
   </tr>
 </table>
 
+---
 
 ## 🏆 Leadership & Recognition
 
+- 🧑‍🏫 Mentored beginner-to-advanced cohorts on cloud fundamentals, DevOps, and GenAI practices
+- 🗣️ Speaker at intra-college tech summits, bridging AI research stories with practical demos
+- 🤝 Collaborating with GDG Cloud to design hands-on labs for student innovators
+- 🪴 Cultivating a builder community through AWS Cloud Club—ideation sprints, project clinics, and peer reviews
 
+---
 
 ## 📊 Pulse
 
@@ -79,6 +103,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=advijaykar&bg_color=0d1117&color=58a6ff&line=3ba55d&point=f7786b&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
+---
 
 ## 🌐 Connect
 
@@ -88,5 +113,9 @@
   <a href="https://github.com/aryan-vijaykar" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
 
+---
 
 ### 🤝 Let’s Collaborate
+
+- 💬 Open to collaborations around AI in education, cloud automation, and data storytelling
+- 📅 Reach out for speaking engagements, hackathons, or co-building community programs
